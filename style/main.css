@@ -311,6 +311,7 @@ hr {
     text-align: center;
     font-weight: bold;
     z-index: 10;
+    color: rgba(255, 255, 255, 0);
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background-image: url('duanyucai.jpg'); }
